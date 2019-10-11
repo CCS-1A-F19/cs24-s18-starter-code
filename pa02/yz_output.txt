@@ -1,0 +1,12 @@
+Alice picked matching card c 3
+Bob picked matching card s a
+Alice picked matching card h 9
+
+Alice's cards:
+h 3
+s 2
+c a
+
+Bob's cards:
+c 2
+d j
